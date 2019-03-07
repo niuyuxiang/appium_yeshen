@@ -1,0 +1,15 @@
+2019-03-07 15:56:16,346 - BasePage - INFO - 已成功被点击
+2019-03-07 15:56:19,256 - BasePage - INFO - 已成功被点击
+2019-03-07 15:56:22,550 - BasePage - INFO - 已成功被点击
+2019-03-07 15:56:37,693 - BasePage - INFO - nyx被输入
+2019-03-07 15:56:46,507 - BasePage - INFO - 3032988695@qq.com被输入
+2019-03-07 15:56:55,436 - BasePage - INFO - 123456nyx被输入
+2019-03-07 15:56:56,783 - BasePage - INFO - 已成功被点击
+2019-03-07 15:56:57,492 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 15:57:08,952 - PlatformEngine - INFO - 关闭程序
+2019-03-07 15:57:33,407 - BasePage - ERROR - find elementMessage: 
+
+2019-03-07 15:57:33,407 - BasePage - ERROR - 点击失败'NoneType' object has no attribute 'click'
+2019-03-07 15:57:40,286 - BasePage - ERROR - find elementMessage: 
+
+2019-03-07 15:57:40,286 - BasePage - ERROR - 点击失败'NoneType' object has no attribute 'click'

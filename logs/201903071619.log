@@ -1,0 +1,9 @@
+2019-03-07 16:20:17,321 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:20:24,994 - BasePage - ERROR - find elementMessage: 
+
+2019-03-07 16:20:24,994 - BasePage - ERROR - 点击失败'NoneType' object has no attribute 'click'
+2019-03-07 16:20:26,871 - BasePage - INFO - 已成功被点击
+2019-03-07 16:20:32,516 - BasePage - INFO - 成功被点击
+2019-03-07 16:20:39,657 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:20:41,917 - BasePage - INFO - 已成功被点击
+2019-03-07 16:20:43,717 - PlatformEngine - INFO - 关闭程序

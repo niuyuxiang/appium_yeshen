@@ -1,0 +1,59 @@
+2019-03-07 16:04:52,684 - BasePage - INFO - 已成功被点击
+2019-03-07 16:04:55,022 - BasePage - INFO - 已成功被点击
+2019-03-07 16:05:02,792 - BasePage - INFO - 已成功被点击
+2019-03-07 16:05:19,288 - BasePage - INFO - nyx被输入
+2019-03-07 16:05:37,633 - BasePage - INFO - 3032988695@qq.com被输入
+2019-03-07 16:05:53,415 - BasePage - INFO - 123456nyx被输入
+2019-03-07 16:05:55,388 - BasePage - INFO - 已成功被点击
+2019-03-07 16:05:56,250 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:06:08,420 - PlatformEngine - INFO - 关闭程序
+2019-03-07 16:06:36,472 - BasePage - INFO - 已成功被点击
+2019-03-07 16:06:39,659 - BasePage - INFO - 已成功被点击
+2019-03-07 16:07:14,534 - BasePage - INFO - 3032988695@qq.com被输入
+2019-03-07 16:07:29,588 - BasePage - INFO - 123456nyx被输入
+2019-03-07 16:07:31,921 - BasePage - INFO - 已成功被点击
+2019-03-07 16:07:33,637 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:07:37,893 - PlatformEngine - INFO - 关闭程序
+2019-03-07 16:08:15,329 - BasePage - INFO - 已成功被点击
+2019-03-07 16:08:17,508 - BasePage - INFO - 已成功被点击
+2019-03-07 16:08:20,169 - BasePage - INFO - 已成功被点击
+2019-03-07 16:08:25,128 - BasePage - INFO - 已成功被点击
+2019-03-07 16:08:34,767 - BasePage - INFO - 1234被输入
+2019-03-07 16:08:38,861 - BasePage - INFO - 已成功被点击
+2019-03-07 16:08:39,668 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:08:51,232 - PlatformEngine - INFO - 关闭程序
+2019-03-07 16:09:13,620 - BasePage - INFO - 已成功被点击
+2019-03-07 16:09:15,420 - BasePage - INFO - 已成功被点击
+2019-03-07 16:09:33,787 - BasePage - INFO - zyx被输入
+2019-03-07 16:09:39,783 - BasePage - INFO - 已成功被点击
+2019-03-07 16:09:40,379 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:09:43,833 - BasePage - INFO - 已成功被点击
+2019-03-07 16:09:46,143 - BasePage - INFO - 已成功被点击
+2019-03-07 16:09:48,782 - BasePage - INFO - 已成功被点击
+2019-03-07 16:10:00,174 - BasePage - INFO - nyx被输入
+2019-03-07 16:10:02,246 - BasePage - INFO - 已成功被点击
+2019-03-07 16:10:02,887 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:10:07,982 - PlatformEngine - INFO - 关闭程序
+2019-03-07 16:10:37,763 - BasePage - INFO - 已成功被点击
+2019-03-07 16:10:42,880 - BasePage - INFO - 已成功被点击
+2019-03-07 16:10:54,184 - BasePage - INFO - sou被输入
+2019-03-07 16:10:57,938 - BasePage - INFO - 你已经成功获取到文本：sou
+2019-03-07 16:10:58,261 - BasePage - INFO - 你已经成功获取到文本：sou
+2019-03-07 16:10:58,609 - BasePage - INFO - 你已经成功获取到文本：sou
+2019-03-07 16:11:10,525 - PlatformEngine - INFO - 关闭程序
+2019-03-07 16:11:35,773 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:11:41,498 - BasePage - ERROR - find elementMessage: 
+
+2019-03-07 16:11:41,501 - BasePage - ERROR - 点击失败'NoneType' object has no attribute 'click'
+2019-03-07 16:11:50,433 - BasePage - INFO - 已成功被点击
+2019-03-07 16:11:56,046 - BasePage - INFO - 成功被点击
+2019-03-07 16:12:05,572 - PlatformEngine - INFO - 关闭程序
+2019-03-07 16:12:31,883 - PlatformEngine - INFO - 关闭程序
+2019-03-07 16:13:11,241 - BasePage - INFO - 已成功被点击
+2019-03-07 16:13:11,812 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:13:17,764 - BasePage - INFO - 已成功被点击
+2019-03-07 16:13:24,227 - BasePage - INFO - 成功被点击
+2019-03-07 16:13:27,446 - BasePage - INFO - 已成功被点击
+2019-03-07 16:13:27,937 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 16:13:29,383 - BasePage - INFO - 已成功被点击
+2019-03-07 16:13:33,034 - PlatformEngine - INFO - 关闭程序

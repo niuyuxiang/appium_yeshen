@@ -1,0 +1,14 @@
+2019-03-07 15:48:27,592 - BasePage - INFO - 已成功被点击
+2019-03-07 15:48:32,863 - BasePage - ERROR - find elementMessage: 
+
+2019-03-07 15:48:32,863 - BasePage - ERROR - 点击失败'NoneType' object has no attribute 'click'
+2019-03-07 15:48:50,720 - BasePage - INFO - wode被输入
+2019-03-07 15:48:52,981 - BasePage - INFO - 已成功被点击
+2019-03-07 15:48:53,726 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 15:48:56,933 - BasePage - INFO - 已成功被点击
+2019-03-07 15:48:59,178 - BasePage - INFO - 已成功被点击
+2019-03-07 15:49:02,111 - BasePage - INFO - 已成功被点击
+2019-03-07 15:49:15,383 - BasePage - INFO - addmenu2被输入
+2019-03-07 15:49:17,986 - BasePage - INFO - 已成功被点击
+2019-03-07 15:49:18,641 - BasePage - INFO - 截图保存到 /screenshots
+2019-03-07 15:49:23,982 - PlatformEngine - INFO - 关闭程序
